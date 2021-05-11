@@ -1,4 +1,4 @@
 # GrigoryUK.github.io
-Root/repesitory
-https://grigoryuk.github.io/Productly/
-https://grigoryuk.github.io/Webovio/
+
+1. https://grigoryuk.github.io/Productly/
+2. https://grigoryuk.github.io/Webovio/
