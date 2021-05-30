@@ -6,3 +6,4 @@
 4. https://grigoryuk.github.io/Cappadosia/
 5. https://grigoryuk.github.io/Coffee/
 6. https://foxi.pro/
+7. https://grigoryuk.github.io/Logo/
