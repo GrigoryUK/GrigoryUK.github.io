@@ -7,4 +7,4 @@
 5. https://grigoryuk.github.io/Coffee/
 6. https://foxi.pro/
 7. https://grigoryuk.github.io/Logo/
-8. https://grigoryuk.github.io/Mavic-2-Pro/app/
+8. https://grigoryuk.github.io/Mavic-2-Pro-master/app/
